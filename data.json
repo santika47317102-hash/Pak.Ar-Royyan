@@ -233,10 +233,10 @@
     },
     {
       "tanggal": "2026-10-14",
-      "uraian": "keluar",
-      "kategori": "beli",
-      "masuk": 0,
-      "keluar": 22000
+      "uraian": "masuk",
+      "kategori": "sedekah",
+      "masuk": 200000,
+      "keluar": 0
     }
   ],
   "santunan": []
